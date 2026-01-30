@@ -2,7 +2,7 @@
 
 A machine learning project that predicts how many days until a banana goes bad using visual features extracted from images. The system combines XGBoost regression with a Streamlit web interface for real-time freshness detection.
 
-**Live Demo**: [Deploy on Streamlit Cloud](https://streamlit.io/cloud)
+**Live Demo**: [Deploy on Streamlit Cloud](https://days-left-for-a-banana-death.streamlit.app/)
 
 ---
 
